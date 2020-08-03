@@ -1,3 +1,6 @@
+/* link to the problem
+https://www.codechef.com/problems/EVENTUAL */
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
